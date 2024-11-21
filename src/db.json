@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "id": "75f1",
+      "Multiple Invoices": "The document details multiple invoices (INV-TEST-1526, INV-149CZS, INV-TEST-963, etc.) mostly from November 11th and 12th, 2024.",
+      "Product Variety": "Products range from everyday items like Monster Energy, Milk Bikis, and Gemini Tea to services like \"Making charges,\" \"debit card charges,\" and \"Shipping Charges.\"  Also includes less common items like \"Matrix and Pillows,\" \"YONEX ZR 100 LIGHT Racket,\" and \"SWEET BOX.\"",
+      "Quantities Vary": "Quantities purchased vary significantly, from single items to thousands (e.g., 1000 GEMS CHOCLATE POUCH, 56789 Monster Energy).",
+      "Taxes Applied": "Taxes (CGST, SGST, IGST) are applied to various items at different rates (0%, 5%, 12%, 18%).  No CESS is applied.",
+      "Totals": "",
+      "Total Quantity": "84,786",
+      "Item Net Amount": "8,196,020.332",
+      "Item Total Amount": "9,505,306.842",
+      "CGST": "2,547.62",
+      "SGST": "2,547.62",
+      "IGST": "1,304,191.26",
+      "Extra Discount": "0.0",
+      "Round Off Amount": "0.0",
+      "Frequent Charges": "\"Shipping Charges,\" \"Making charges,\" and \"debit card charges\" appear on multiple invoices."
+    }
+  ]
+}
