@@ -2,9 +2,9 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 import { GoogleAIFileManager } from "@google/generative-ai/server";
 
 // Initialize GoogleGenerativeAI with your API_KEY.
-const genAI = new GoogleGenerativeAI("AIzaSyC-OhlY2O1y8NqJ2UUv5qiRFxNDqzctwgM");
+const genAI = new GoogleGenerativeAI(process.env.API_KEY);
 // Initialize GoogleAIFileManager with your API_KEY.
-const fileManager = new GoogleAIFileManager("AIzaSyC-OhlY2O1y8NqJ2UUv5qiRFxNDqzctwgM");
+const fileManager = new GoogleAIFileManager(process.env.API_KEY);
 
 const model = genAI.getGenerativeModel({
   // Choose a Gemini model.
